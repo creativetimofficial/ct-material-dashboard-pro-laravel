@@ -4,7 +4,7 @@
 
 *Frontend version*: Material Dashboard v2.1.0. More info at https://www.creative-tim.com/product/material-dashboard-pro
 
-![Product Image](https://github.com/creativetimofficial/public-assets/blob/master/material-dashboard-laravel%20/md-laravel.gif?raw=true)
+![Product Image](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/material-dashboard-pro-laravel.gif?raw=true)
 
 Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 5.5 and up.
 
@@ -326,11 +326,11 @@ The policy which authorizes the user on item management pages is implemented in 
 
 | Register | Login | Dashboard |
 | --- | --- | ---  |
-| [![Register](/screens/Register.png)](https://material-dashboard-pro-laravel.creative-tim.com/register?ref=adnp-readme)  | [![Login](/screens/Login.png)](https://material-dashboard-pro-laravel.creative-tim.com/login?ref=adnp-readme)  | [![Dashboard](/screens/Dashboard.png)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=adnp-readme)
+| [![Register](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Register.png)](https://material-dashboard-pro-laravel.creative-tim.com/register?ref=adnp-readme)  | [![Login](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Login.png)](https://material-dashboard-pro-laravel.creative-tim.com/login?ref=adnp-readme)  | [![Dashboard](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Dashboard.png)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=adnp-readme)
 
 | Profile Page | Users Page | Tables Page  |
 | --- | --- | ---  |
-| [![Profile Page](screens/Profile.png)](https://material-dashboard-pro-laravel.creative-tim.com/profile?ref=adnp-readme)  | [![Users Page](screens/Users.png)](https://material-dashboard-pro-laravel.creative-tim.com/user?ref=adnp-readme) | [![Tables Page](screens/Tables.png)](https://material-dashboard-pro-laravel.creative-tim.com/table-list?ref=adnp-readme)
+| [![Profile Page](screens/Profile.png)](https://material-dashboard-pro-laravel.creative-tim.com/profile?ref=adnp-readme)  | [![Users Page](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Users.png)](https://material-dashboard-pro-laravel.creative-tim.com/user?ref=adnp-readme) | [![Tables Page](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Tables.png)](https://material-dashboard-pro-laravel.creative-tim.com/table-list?ref=adnp-readme)
 [View More](https://material-dashboard-pro-laravel.creative-tim.com/?ref=adnp-readme)
 
 ## Documentation
