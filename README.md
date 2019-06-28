@@ -320,7 +320,7 @@ The policy which authorizes the user on item management pages is implemented in 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mdl-readme) | [![Material Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme)
+| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mdl-readme) | [![Material Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme)
 
 ## Demo
 
@@ -961,7 +961,7 @@ At present, we officially aim to support the last two versions of the following 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mdl-readme) | [![Material Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme)
+| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mdl-readme) | [![Material Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme)
 
 ## Change log
 
