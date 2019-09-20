@@ -12,7 +12,7 @@ Speed up your web development with the Bootstrap 4 Admin Dashboard built for Lar
 
 If you don't already have an Apache local environment with PHP and MySQL, use one of the following links:
 
- - Windows: https://l.facebook.com/l.php?u=https%3A%2F%2Fupdivision.com%2Fblog%2Fpost%2Fbeginner-s-guide-to-setting-up-your-local-development-environment-on-windows&h=AT2_Au02T9UaZ3CtVukNGIdAAOcpEFTwQpcFDTSqiWqtmL5FHPXkGP5FuTBT6pURvcxUCBf57Msc9E82-M0wUpqfbl2YGOUbIOg9om6cji5dpa0Ib-y65fBSyLEGvjoo4ge2bpfhjS-GslMH1g
+ - Windows: https://updivision.com/blog/post/beginner-s-guide-to-setting-up-your-local-development-environment-on-windows
  - Linux: https://howtoubuntu.org/how-to-install-lamp-on-ubuntu
  - Mac: https://wpshout.com/quick-guides/how-to-install-mamp-on-your-mac/
 
