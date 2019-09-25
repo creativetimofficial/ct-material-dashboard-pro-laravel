@@ -1,6 +1,6 @@
 # [Material Dashboard Pro Laravel](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdpl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Dashboard%20Pro%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//material-dashboard-pro-laravel.creative-tim.com/%20%23%material%20%23design%20%23dashboard%20%23laravel%20%23pro%20via%20%40CreativeTim)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro-laravel/ct-material-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.0.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro-laravel/ct-material-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
 
 *Frontend version*: Material Dashboard v2.1.0. More info at https://www.creative-tim.com/product/material-dashboard-pro
 
@@ -17,7 +17,6 @@ If you don't already have an Apache local environment with PHP and MySQL, use on
  - Mac: https://wpshout.com/quick-guides/how-to-install-mamp-on-your-mac/
 
 Also, you will need to install Composer: https://getcomposer.org/doc/00-intro.md
-
 ## Installation
 
 1. Unzip the downloaded archive
@@ -319,7 +318,7 @@ The policy which authorizes the user on item management pages is implemented in 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mdl-readme) | [![Material Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme)
+| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mdl-readme) | [![Material Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme)
 
 ## Demo
 
@@ -960,7 +959,7 @@ At present, we officially aim to support the last two versions of the following 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mdl-readme) | [![Material Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme)
+| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mdl-readme) | [![Material Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme)
 
 ## Change log
 
