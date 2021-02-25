@@ -954,7 +954,7 @@ At present, we officially aim to support the last two versions of the following 
 - Documentation: <https://material-dashboard-pro-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=mdl-readme>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-dashboard-pro-laravel/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-material-dashboard-pro-laravel/issues)
 - **Dashboards:**
 
 | HTML | LARAVEL |
