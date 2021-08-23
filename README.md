@@ -4,9 +4,9 @@
 
 *Frontend version*: Material Dashboard v2.1.0. More info at https://www.creative-tim.com/product/material-dashboard-pro
 
-![Product Image](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/material-dashboard-pro-laravel.gif?raw=true)
+<img src="https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/material-dashboard-pro-laravel.gif?raw=true" width="100%" />
 
-Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 8.x and up.
+Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 5.5 and up.
 
 ## Prerequisites
 
@@ -315,10 +315,16 @@ The policy which authorizes the user on item management pages is implemented in 
 
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/argon-dashboard-pro/pages/dashboards/dashboard.html?ref=mdl-readme)
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://argon-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme)
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-dashboard?ref=mdl-readme)
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/json-api.png" width="140" height="60" />](https://www.creative-tim.com/product/vue-material-dashboard-laravel?ref=mdl-readme)
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mdl-readme) | [![Material Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme)
+| [<img src="(https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg?1521134752" width="472px"/>](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mdl-readme) | [<img src="https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg" width="485px" />](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme) |
+
+| Vue | Vue & Laravel |
+| --- | --- |
+| [<img src="https://s3.amazonaws.com/creativetim_bucket/products/81/thumb/opt_md_vue_thumbnail.jpg" width="472px"/>](https://www.creative-tim.com/product/vue-material-dashboard?ref=mdl-readme) | [<img src="https://s3.amazonaws.com/creativetim_bucket/products/331/thumb/opt_md_vuelaravel_thumbnail.jpg" width="485px" />](https://www.creative-tim.com/product/vue-material-dashboard-laravel?ref=mdl-readme) |
 
 ## Demo
 
@@ -954,7 +960,7 @@ At present, we officially aim to support the last two versions of the following 
 - Documentation: <https://material-dashboard-pro-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=mdl-readme>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-material-dashboard-pro-laravel/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-dashboard-pro-laravel/issues)
 - **Dashboards:**
 
 | HTML | LARAVEL |
@@ -980,7 +986,7 @@ We use GitHub Issues as the official bug tracker for the Material Dashboard Lara
 
 ## Licensing
 
-- Copyright Creative Tim (https://www.creative-tim.com/?ref=mdl-readme)
+- Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=mdl-readme)
 - Creative Tim License (https://www.creative-tim.com/license).
 
 
