@@ -6,7 +6,7 @@
 
 <img src="https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/material-dashboard-pro-laravel.gif?raw=true" width="80%" />
 
-Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 5.5 and up.
+Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 8.x and up.
 
 ## Prerequisites
 
