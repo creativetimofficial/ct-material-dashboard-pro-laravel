@@ -316,11 +316,11 @@ The policy which authorizes the user on item management pages is implemented in 
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/argon-dashboard-pro/pages/dashboards/dashboard.html?ref=mdl-readme)
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://argon-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme)
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-dashboard?ref=mdl-readme)
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/json-api.png" width="140" height="60" />](https://www.creative-tim.com/product/vue-material-dashboard-laravel?ref=mdl-readme)
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/json-api.png" width="200" height="60" />](https://www.creative-tim.com/product/vue-material-dashboard-laravel?ref=mdl-readme)
 
 | HTML | LARAVEL |
 | --- | --- |
-| [<img src="(https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg?1521134752" width="472px"/>](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mdl-readme) | [<img src="https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg" width="485px" />](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme) |
+| [<img src="(https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg?152113475" width="472px"/>](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mdl-readme) | [<img src="https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg" width="485px" />](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme) |
 
 | Vue | Vue & Laravel |
 | --- | --- |
