@@ -26,3 +26,7 @@ All notable changes to `Laravel Material Dashboard Pro` theme for Laravel will b
 ## Version 1.0.3
 
 - Update to Laravel 8.x
+
+## Version 1.0.4
+
+- Update to Laravel 9.x
